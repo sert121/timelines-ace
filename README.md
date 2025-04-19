@@ -1,6 +1,6 @@
 # Tauri + React + Typescript Screen Recorder
 
-This project is a screen recording application built using the Tauri framework, with a frontend developed in React and Typescript. It aims to provide native screen recording capabilities for both macOS and Windows operating systems by leveraging platform-specific commands (screencapture on macOS and potentially the Xbox Game Bar or other methods on Windows, as indicated by the code structure).
+This project is a screen recording application built using the Tauri framework, with a frontend developed in React and Typescript.
 
 ## Recommended IDE Setup
 
@@ -115,5 +115,3 @@ To run and build the application, you would typically use the Tauri CLI commands
     
 *   npm run tauri build: Builds the application for distribution.
     
-
-This detailed README provides a clear understanding of the project's structure and the role of each file, which is crucial for development and collaboration.
